@@ -364,7 +364,7 @@ nav {
     padding: 16px; }
 
 header {
-  height: 80vh;
+  height: 50vh;
   text-align: center;
   background-image: url(http://via.placeholder.com/1000x1000);
   background-size: cover;
@@ -385,5 +385,32 @@ header {
 #call-to-action {
   text-align: center; }
   #call-to-action button {
+    background: #6AC799;
+    color: #fff;
+    border: none;
+    padding: 1em;
+    font-size: 1.2em;
+    border-radius: 1rem;
     margin: 2em 0 2em 0;
-    width: 50%; }
+    width: 50%;
+    cursor: pointer; }
+    #call-to-action button:hover {
+      background: #00A650; }
+
+#about-section h2 {
+  display: inline-block;
+  border-bottom: solid 3px; }
+
+#about-section p {
+  text-align: center;
+  padding: 1em; }
+
+#about-image {
+  background-image: url(http://via.placeholder.com/1000x1000);
+  background-size: cover;
+  background-position: center;
+  height: 300px; }
+
+#schedule-section h2 {
+  display: inline-block;
+  border-bottom: solid 3px; }
