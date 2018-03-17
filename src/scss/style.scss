@@ -1,4 +1,15 @@
+@import "reset";
+@import "normalize";
 body {
-    background: #333;
     color: #fff;
+}
+
+nav {
+    background: #00A650;
+    height: 50px;
+    display: flex;
+    p{
+        margin: auto 0 auto;
+        padding: 16px;
+    }      
 }
