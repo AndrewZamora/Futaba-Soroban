@@ -396,6 +396,8 @@ header {
     cursor: pointer; }
     #call-to-action button:hover {
       background: #00A650; }
+    #call-to-action button span {
+      letter-spacing: 0.19em; }
 
 #about-section h2 {
   display: inline-block;
