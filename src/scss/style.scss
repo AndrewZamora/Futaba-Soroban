@@ -68,3 +68,9 @@ button{
         border-bottom: solid 3px;
     }
 }
+
+@media only screen and (max-width: 600px){
+#call-to-action button{
+width: 94%;
+}
+}

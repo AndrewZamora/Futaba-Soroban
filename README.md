@@ -1,2 +1,3 @@
-# This is a Futaba-Soroban Abacus School's Website
+# Futaba-Soroban 
+Futaba-Soroan is a Abacus School and this is their website.
 
